@@ -15,6 +15,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 :man_technologist: About Me :
-I am a beginner project manager from Russia.
-- :telescope: I’m studing in college to become a programmer.
+I am a beginner project manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
 

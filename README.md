@@ -16,6 +16,7 @@
 </div>
 :man_technologist: About Me :
 I am a beginner project manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  <br>
 - :telescope: I'm studying in college to become a programmer
-
+  </br>
 

@@ -16,3 +16,5 @@
 </div>
 :man_technologist: About Me :
 I am a beginner project manager from Russia.
+- :telescope: I’m studing in college to become a programmer.
+
